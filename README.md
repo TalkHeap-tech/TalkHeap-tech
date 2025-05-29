@@ -1,4 +1,4 @@
-TalkHeap-tech
+[TalkHeap-tech
 ​​Core Team Member @ Talkheap​​
 🌐(https://talkheap.com/)
 
@@ -28,3 +28,4 @@ Telecom APIs AI/ML Pipelines Conversational AI AWS/GCP Python Node.js
 👨🍳 Culinary Hacker: Experimenting with algorithm-inspired fusion recipes
 ​​Let's Transform Global Communication​​
 https://talkheap.com/
+](https://talkheap.com/)
